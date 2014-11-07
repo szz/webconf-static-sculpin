@@ -1,3 +1,3 @@
 ---
+layout: base
 ---
-hello ez itt az index
