@@ -1,5 +1,7 @@
 ---
 layout: base
+
+title: Főoldal
 ---
 <p class="quote">
     Egy nap, ahol mindent megtudhattok az aktuális a webes trendekről, technológiákról, tippekről, trükkökről.

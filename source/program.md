@@ -1,5 +1,7 @@
 ---
 layout: base
+
+title: Program
 ---
 ## Program
 

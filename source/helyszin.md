@@ -1,5 +1,7 @@
 ---
 layout: base
+
+title: Helyszín
 ---
 ### Helyszín
 A konferencia helyszíne a <span class="vcard"><strong class="org fn n">Óbudai Egyetem</strong> (<span class="adr"><span class="postal-code">1034</span> <span class="locality">Budapest</span>, <span class="street-address">Bécsi út 96/B.</span></span>)</span>.
