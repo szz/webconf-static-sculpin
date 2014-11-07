@@ -2,6 +2,7 @@
 layout: base
 
 title: Program
+name: program
 ---
 ## Program
 
